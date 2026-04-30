@@ -1,0 +1,20 @@
+# Model weights
+backend/models/finbert/
+backend/models/models--ProsusAI--finbert/
+
+# Datasets
+backend/dataset/
+
+# Venv
+backend/venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.env
+
+.DS_Store
+Thumbs.db
+backend/rf_model.joblib
+*.joblib
