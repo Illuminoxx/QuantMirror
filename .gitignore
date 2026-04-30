@@ -16,5 +16,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 
+# HF Spaces repo — separate codebase
+hf-sentimentedge/
+
 # Local tools
 *.bat
