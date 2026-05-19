@@ -9,13 +9,19 @@ backend/dataset/
 backend/venv/
 venv/
 
+#cache
+backend/cache
+
+#command
+sentimentEdge/git command.docx
+
 # Python
 __pycache__/
 *.pyc
 .env
 .DS_Store
 Thumbs.db
-cache
+
 
 # HF Spaces repo — separate codebase
 hf-sentimentedge/
