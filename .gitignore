@@ -15,6 +15,7 @@ __pycache__/
 .env
 .DS_Store
 Thumbs.db
+cache
 
 # HF Spaces repo — separate codebase
 hf-sentimentedge/
