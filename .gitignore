@@ -10,10 +10,10 @@ backend/venv/
 venv/
 
 #cache
-backend/cache
+backend/cache/
 
 #command
-sentimentEdge/git command.docx
+sentimentEdge/git command.docx/
 
 # Python
 __pycache__/
