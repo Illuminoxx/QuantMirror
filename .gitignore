@@ -12,8 +12,6 @@ venv/
 #cache
 backend/cache/
 
-#command
-git command.docx/
 
 # Python
 __pycache__/
