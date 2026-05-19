@@ -60,7 +60,7 @@ Tweet Input
 └──────────────┬──────────────────┘
                │
                ▼
-    Prediction: UP ↑ (87% confidence)
+    Prediction: UP
 ```
 
 ---
@@ -81,7 +81,6 @@ Tweet Input
 | Feature | Description |
 |---|---|
 | 🔍 **Single Tweet Analysis** | Paste any financial tweet — get FinBERT scores + RF movement prediction instantly |
-| 📦 **Batch Analysis** | Analyze multiple tweets at once — faster than sequential processing |
 | 🤖 **Dual Model Pipeline** | FinBERT sentiment scores feed directly as features into Random Forest |
 | 📊 **FinBERT Explorer** | Inspect raw positive / negative / neutral confidence scores per tweet |
 | 📈 **Evaluation Dashboard** | View model accuracy, F1 score, AUC-ROC, and performance breakdown |
@@ -243,7 +242,3 @@ docker run -p 7860:7860 sentimentedge
 - Designed a multi-page interactive dashboard with batch and single-tweet prediction, live API integration, and a model evaluation page
 
 ---
-
-## License
-
-MIT License — free to use, modify, and distribute.
