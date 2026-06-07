@@ -12,4 +12,3 @@ joblib==1.4.2
 python-dotenv==1.0.1
 requests
 
-//good luck ! 
