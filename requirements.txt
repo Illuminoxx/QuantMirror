@@ -11,3 +11,5 @@ yfinance==0.2.40
 joblib==1.4.2
 python-dotenv==1.0.1
 requests
+
+//good luck ! 
