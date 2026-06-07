@@ -26,3 +26,5 @@ hf-sentimentedge/
 
 # Local tools
 *.bat*.docx 
+
+.gitignore
