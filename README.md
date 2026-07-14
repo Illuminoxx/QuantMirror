@@ -102,7 +102,7 @@ Trained on a curated dataset of financial tweets covering the **top 25 most-watc
 
 The dataset enables direct correlation between public tweet sentiment and actual next-day price movement — making the Random Forest labels real and grounded.
 
-
+🔗 https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020
 
 ---
 
