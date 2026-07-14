@@ -102,7 +102,6 @@ Trained on a curated dataset of financial tweets covering the **top 25 most-watc
 
 The dataset enables direct correlation between public tweet sentiment and actual next-day price movement — making the Random Forest labels real and grounded.
 
-> Inspired by [Stock Market Tweet Sentiment Analysis](https://www.kaggle.com/) and [Stock-Market Sentiment Dataset](https://www.kaggle.com/).
 
 ---
 
