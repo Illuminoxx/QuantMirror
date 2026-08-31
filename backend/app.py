@@ -5,6 +5,7 @@
 #  URL:    http://localhost:5000
 #
 #  Routes:
+#    GET  /api/healthz        -> health check
 #    GET  /api/status          → server health + model info
 #    GET  /api/metrics         → full training metrics for dashboard
 #    POST /api/analyze         → FinBERT only (text → sentiment)
