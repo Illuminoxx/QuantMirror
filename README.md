@@ -143,6 +143,9 @@ SentimentEdge/
 │       └── random_forest.joblib  # Trained RF model
 ├── requirements.txt
 └── Dockerfile
+|──frontend/
+    └──app.js
+     └──index.html
 ```
 
 ---
